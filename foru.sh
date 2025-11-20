@@ -17,8 +17,8 @@ pkg install ncurses-utils -y
 pkg install ruby -y 
 gem install lolcat 
 figlet -f big Wait | lolcat
-git clone https://github.com/BDhackers009/simple-edit
-sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
-sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
+git clone https://github.com/SAGOR-KING-404/simple-edit
+sed 's+SAGOR+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
+sed 's+SAGOR+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
 rm -rf simple-edit
-figlet -f big BDh@Ckers | lolcat
+figlet -f big KING OF SAGOR| lolcat
